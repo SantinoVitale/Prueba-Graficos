@@ -1,0 +1,14 @@
+{
+  "servicePoints": "Service Points",
+  "devices": "Devices",
+  "billings": "Billings",
+  "users": "Users",
+  "groups": "Groups",
+  "controlPanel": "Control Panel",
+  "telemetryDashboard": "Telemetry Dashboard",
+  "usageReports": "Usage Reports",
+  "settings": "Settings",
+  "roles": "Roles",
+  "bandsMappings": "Bands Mappings",
+  "apiKeys": "API Keys"
+}

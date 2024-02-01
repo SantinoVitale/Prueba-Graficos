@@ -1,0 +1,50 @@
+{
+  "nameOrEmail": "Nombre o email",
+  "password": "Contraseña",
+  "loading": "Cargando",
+  "back": "Volver al inicio de sesión",
+  "login": "Iniciar sesión",
+  "error": {
+    "passwordsMustMatch": "Las contraseñas no concuerdan",
+    "invalidPassword": "Contraseña no válida",
+    "emptyLoginOrPassword": "El nombre de usuario y la contraseña no deben estar vacíos",
+    "emptyEmail": "El correo electrónico no puede estar vacío",
+    "backendError": "Error accediendo el backend. ¿Está corriendo?",
+    "blocked": "Credenciales bloqueadas. Demasiados intentos de inicio de sesión",
+    "disabled": "Sus credenciales han sido deshabilitadas",
+    "expired": "Clave expirada",
+    "rejected": "Usuario o clave incorrectos",
+    "invalid": "El usuario no ha sido validado",
+    "unacceptable_interaction": "Interacción inaceptable. Por favor vuelva a intentar",
+    "unacceptable_password": "La nueva contraseña no cumple con los requisitos de seguridad",
+    "couldntResetPassword": "No se pudo restablecer la contraseña"
+  },
+  "forgotPassword": {
+    "recoverPassword": "Recuperar contraseña",
+    "help": "Para recuperar la contraseña por favor ingrese su correo electrónico. Recibirá indicaciones para poder completar el proceso.",
+    "sendEmail": "Enviar email",
+    "forgot": "¿Olvidó su clave?",
+    "mailSent": "Email enviado correctamente"
+  },
+  "resetPassword": {
+    "title": "Recuperar contraseña",
+    "help": "Ingrese su nueva contraseña",
+    "change": "Cambiar contraseña",
+    "new": "Nueva contraseña",
+    "repeat": "Repita nueva contraseña",
+    "success": "Contraseña restablecida",
+    "passwordRules": "Requisitos de contraseña",
+    "validationRules": {
+      "min": "Longitud mínima",
+      "uppercase": "Al menos una letra mayúscula",
+      "numbers": "Al menos un número",
+      "symbols": "Al menos un símbolo",
+      "title": "Requisitos de contraseña"
+    }
+  },
+  "refreshPassword": {
+    "title": "Contraseña expirada",
+    "help": "La contraseña ha expirado. Por favor ingrese su contraseña actual y una nueva contraseña",
+    "current": "Contraseña actual"
+  }
+}

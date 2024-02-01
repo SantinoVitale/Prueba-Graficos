@@ -1,0 +1,14 @@
+{
+  "servicePoints": "Suministros",
+  "devices": "Dispositivos",
+  "billings": "Facturación",
+  "users": "Usuarios",
+  "groups": "Grupos",
+  "controlPanel": "Panel de Control",
+  "telemetryDashboard": "Gráficos",
+  "usageReports": "Reportes de Uso",
+  "settings": "Configuración",
+  "roles": "Roles",
+  "bandsMappings": "Mapeo de Bandas",
+  "apiKeys": "Claves de API"
+}

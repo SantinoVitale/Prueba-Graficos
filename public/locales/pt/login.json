@@ -1,0 +1,50 @@
+{
+  "nameOrEmail": "Email o usuário",
+  "password": "Senha",
+  "loading": "Carregando",
+  "back": "Volte ao login",
+  "login": "Iniciar sessão",
+  "error": {
+    "passwordsMustMatch": "As senhas não concordam",
+    "invalidPassword": "Senha inválida",
+    "emptyLoginOrPassword": "Login e senha não devem estar vazios",
+    "emptyEmail": "O e-mail não pode ficar vazio",
+    "backendError": "Erro ao acessar o back-end. Ele está em execução?",
+    "blocked": "Credenciais bloqueadas. Muitas tentativas de login malsucedidas",
+    "disabled": "Suas credenciais foram desativadas",
+    "expired": "Senha expirada",
+    "rejected": "Login ou senha incorretos",
+    "invalid": "O usuário não foi validado",
+    "unacceptable_interaction": "Interação inaceitável. Por favor, tente novamente",
+    "unacceptable_password": "A nova senha não atende aos requisitos de segurança",
+    "couldntResetPassword": "Não foi possível redefinir a senha"
+  },
+  "forgotPassword": {
+    "recoverPassword": "Recuperar senha",
+    "help": "Para recuperar a senha, ingresse seu endereço de email. Receberá instruções para concluir o processo.",
+    "sendEmail": "Enviar email",
+    "forgot": "Esqueceu sua senha?",
+    "mailSent": "Email enviado corretamente"
+  },
+  "resetPassword": {
+    "title": "Recuperar senha",
+    "help": "Ingresse a nova senha",
+    "change": "Alterar senha",
+    "new": "Nova senha",
+    "repeat": "Repita a nova senha",
+    "success": "Redefinição de senha",
+    "passwordRules": "Regras de senha",
+    "validationRules": {
+      "min": "Comprimento mínimo",
+      "uppercase": "Pelo menos uma letra maiuscula",
+      "numbers": "Pelo menos um número",
+      "symbols": "Pelo menos um símbolo",
+      "title": "Requisitos de senha"
+    }
+  },
+  "refreshPassword": {
+    "title": "Senha expirada",
+    "help": "A senha expirou. Ingresse a senha atual e uma nova senha",
+    "current": "Senha atual"
+  }
+}

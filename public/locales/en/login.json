@@ -1,0 +1,50 @@
+{
+  "nameOrEmail": "Name or Email",
+  "password": "Password",
+  "loading": "Loading",
+  "back": "Back to login",
+  "login": "Sign in",
+  "error": {
+    "passwordsMustMatch": "Passwords don't match",
+    "invalidPassword": "Invalid password",
+    "emptyLoginOrPassword": "Login and password must not be empty",
+    "emptyEmail": "Email cannot be empty",
+    "backendError": "Error accessing backend. Is it running?",
+    "blocked": "Blocked credentials. Too much failed login attempts",
+    "disabled": "Your credentials have been disabled",
+    "expired": "Password expired",
+    "rejected": "Incorrect login or password",
+    "invalid": "User hasn't been validated",
+    "unacceptable_interaction": "Unacceptable interaction. Please try again",
+    "unacceptable_password": "New password does not meet security requirements",
+    "couldntResetPassword": "Couldn't reset password"
+  },
+  "forgotPassword": {
+    "recoverPassword": "Restore password",
+    "help": "Enter the email for your account. You will receive intructions on how to retrive your password.",
+    "sendEmail": "Send email",
+    "forgot": "Forgot your password?",
+    "mailSent": "Your email was sent successfully"
+  },
+  "resetPassword": {
+    "title": "Restore password",
+    "help": "Please enter your new password",
+    "change": "Change password",
+    "new": "New password",
+    "repeat": "Repeat new password",
+    "success": "Password reset",
+    "passwordRules": "Password rules",
+    "validationRules": {
+      "min": "Minimum length",
+      "uppercase": "At least one uppercase letter",
+      "numbers": "At least one number",
+      "symbols": "At least one symbol",
+      "title": "Password requirements"
+    }
+  },
+  "refreshPassword": {
+    "title": "Expired password",
+    "help": "Your password has expired. Please enter your current password and a new password",
+    "current": "Current password"
+  }
+}
